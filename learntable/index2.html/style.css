@@ -1,0 +1,20 @@
+.v{
+    color:blue;
+}
+.div{
+    height: 100px;
+    width: 200px;
+    margin: 20px;
+    border: 2px solid black;
+    padding: 25px;
+
+}
+#org{
+    background-color:orange;
+}
+#grn{
+ background-color:green;   b
+}
+#wht{
+    background-color:white;
+}

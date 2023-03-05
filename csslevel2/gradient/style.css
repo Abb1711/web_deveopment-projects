@@ -1,0 +1,27 @@
+.box{
+    height: 220px;
+    width: 220px;
+    border:2px solid black;
+    background-image:linear-gradient(pink,yellow);
+    background-image:linear-gradient(to bottom,yellow,pink);
+
+}
+.mydiv{
+    border:2px solid black;
+    height:200px;
+    width:150px;
+    margin:20 px;
+    background-image:radial-gradient(orange,yellow,pink);
+    background-image:radial-gradient(cicle, orange,yellow,pink);
+}
+.h1{
+    text-shadow: 30px,3px,3px,red;
+}
+.boxi{
+    background-color:aqua;
+    height:200px;
+    width: 200px;
+    box-shadow:10px 10px 15px green;
+
+
+}
